@@ -1,3 +1,5 @@
+# docker build -t aculich/k8s-snapshots:latest .
+
 FROM python:3.6
 
 ADD . /app
